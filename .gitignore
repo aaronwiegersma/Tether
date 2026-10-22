@@ -1,0 +1,29 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+.npm-cache
+
+# next
+/.next/
+/out/
+
+# env
+.env
+.env*.local
+
+# debug / tests
+npm-debug.log*
+.DS_Store
+*.tsbuildinfo
+coverage
+.vercel
+
+# supabase local
+supabase/.branches
+supabase/.temp

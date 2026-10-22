@@ -1,0 +1,2 @@
+-- Demo data is intentionally not loaded by the Supabase CLI.
+-- Run `ALLOW_DEMO_SEED=true npm run seed:demo` against a development project.
